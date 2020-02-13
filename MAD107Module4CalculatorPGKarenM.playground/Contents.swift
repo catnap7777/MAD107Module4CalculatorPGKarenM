@@ -3,6 +3,7 @@ import Cocoa
 var str = "Hello, playground"
 
 //.. variables and initializaion
+
 var nbr1: Double = 100
 var nbr2: Double = 26
 
